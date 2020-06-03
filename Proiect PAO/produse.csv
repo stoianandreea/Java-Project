@@ -1,7 +1,6 @@
-mancare, prajitura, Cheesecake, 20.5, blat, branza, fructe, false
-mancare, inghetata, Inghetata ciocolata, 7.5, inghetata, sirop, false
+mancare, prajitura, Cheesecake, 20.5, blat branza fructe, false
+mancare, inghetata, Inghetata ciocolata, 7.5, inghetata sirop, false
 mancare, burger, burger vita, 30.0, carne salata rosii chifla, false
-bautura, cafea, Cafea cu lapte, 10.0, cafea, lapte, true
-bautura, cafea, Iced coffee, 16.0, cafea, lapte, gheata, true
+bautura, cafea, Iced coffee, 16.0, cafea lapte gheata, true
 bautura, cafea, cafea cu lapte, 10.0, cafea lapte zahar, true
 bautura, ceai, ceai fructe, 14.0, ceai apa miere, false
