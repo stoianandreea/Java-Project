@@ -17,7 +17,7 @@ public class Cafenea {
     public Cafenea(){
         this.numeCafenea = "Coffeol";
         this.locatie = "Bucuresti";
-
+        /*
         Bucatar b = new Bucatar("Ionescu Alex", 40, 2000, "cafea, prajitura");
         this.bucatari.add(b);
         Ospatar o = new Ospatar("Popescu Ion", 30, 1000);
@@ -30,6 +30,7 @@ public class Cafenea {
         this.prod.add(food1);
         Produse food2 = new Mancare("inghetata", "Inghetata ciocolata", 7.50, "inghetata, sirop", false);
         this.prod.add(food2);
+        */
     }
 
     public void adaugaBucatar(Bucatar bucatar) {
